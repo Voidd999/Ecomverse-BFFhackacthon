@@ -38,7 +38,7 @@ Step 1-
         https://thecodes.tech 
 
 Step 2-
-   Run on your platform bu running the .exe file.
+   Run on your platform by running the .exe file.
   
 
 Step 3- 
